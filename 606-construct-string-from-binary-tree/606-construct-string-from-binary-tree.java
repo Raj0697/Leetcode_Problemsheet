@@ -15,24 +15,31 @@
  */
 class Solution {
     public String tree2str(TreeNode root) {
-        if(root == null) return "";
-        StringBuilder sb = new StringBuilder();
+//         if(root == null) return "";
+//         StringBuilder sb = new StringBuilder();
         
-        int val = root.val;
+//         int val = root.val;
         
-        // Get strig from both subtrees
-        String left = tree2str(root.left);
-        String right = tree2str(root.right);
+//         // Get strig from both subtrees
+//         String left = tree2str(root.left);
+//         String right = tree2str(root.right);
         
-        sb.append(val+"");
+//         sb.append(val+"");
         
-        // Ignore left part only if both left and right children are null
-        // Else append left, even if empty parenthesis
-        sb.append((left.isEmpty() && right.isEmpty()) ? "" : "("+left+")");
+//         // Ignore left part only if both left and right children are null
+//         // Else append left, even if empty parenthesis
+//         sb.append((left.isEmpty() && right.isEmpty()) ? "" : "("+left+")");
         
-        // Append right part only if right child is not null
-        sb.append((right.isEmpty()) ? "" : "("+right+")");
+//         // Append right part only if right child is not null
+//         sb.append((right.isEmpty()) ? "" : "("+right+")");
         
-        return sb.toString();
+//         return sb.toString();
+        if (root == null) return "";
+        String result = "";
+        if (root.left != null) result += "(" + tree2str(root.left) + ")";//SOLVE FOR LEFT SUB TREE
+        if (root.left == null && root.right != null) result += "()";        //IMP!! A/C QUESTION
+        if (root.right != null) result += "(" + tree2str(root.right) + ")"; // SOLVE FOR RIGHT SUB TREE
+        return root.val + result; //MERGE RESULT
     }
 }
+
