@@ -1,42 +1,35 @@
 public class Solution {
     public int MinimizeArrayValue(int[] nums)
     {
-        int result = 0;
-        int low = nums.Min();
-        int high = nums.Max();
-
-        while (low <= high)
-        {
-            long mid = ((long)low + (long)high) / 2;
-
-            if (isValidMid(nums, mid))
-            {
-                result = (int)mid;
-                high = result - 1;
-            }
-            else
-            {
-                low = (int)mid + 1;
-            }
+        long ans = 0;
+        long sum = 0;
+        for (var i = 0; i < nums.Length; i++) {
+            sum += nums[i];
         }
-        return result;
+
+        for (var i = nums.Length-1; i >= 0; i--) {
+            ans = Math.Max(ans, (long)Math.Ceiling(sum * 1.0 / (i+1)));
+            sum -= nums[i];    
+        }
+
+        return (int)ans;
     }
 
-    private bool isValidMid(int[] nums, long mid)
-    {
-        long tempRem = 0;
+//     private bool isValidMid(int[] nums, long mid)
+//     {
+//         long tempRem = 0;
 
-        for (int i = nums.Length - 1; i >= 0; i--)
-        {
-            if (nums[i] <= mid)
-            {
-                tempRem -= Math.Min(tempRem, mid - nums[i]);
-            }
-            else
-            {
-                tempRem += nums[i] - mid;
-            }
-        }
-        return tempRem <= 0;
-    }
+//         for (int i = nums.Length - 1; i >= 0; i--)
+//         {
+//             if (nums[i] <= mid)
+//             {
+//                 tempRem -= Math.Min(tempRem, mid - nums[i]);
+//             }
+//             else
+//             {
+//                 tempRem += nums[i] - mid;
+//             }
+//         }
+//         return tempRem <= 0;
+//     }
 }
