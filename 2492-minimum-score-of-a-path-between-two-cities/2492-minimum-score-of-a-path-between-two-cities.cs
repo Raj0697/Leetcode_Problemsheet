@@ -1,37 +1,43 @@
 public class Solution {
     public int MinScore(int n, int[][] roads) {
-        var graph = new Dictionary<int, Dictionary<int, int>>();
-        foreach (var road in roads)
+        Dictionary<int, List<(int, int)>> adj = new();
+        foreach (int[] detail in roads)
         {
-            if (!graph.ContainsKey(road[0]))
-            {
-                graph.Add(road[0], new Dictionary<int, int>());
-            }
-
-            if (!graph.ContainsKey(road[1]))
-            {
-                graph.Add(road[1], new Dictionary<int, int>());
-            }
-            graph[road[0]].Add(road[1], road[2]);
-            graph[road[1]].Add(road[0], road[2]);
+            _ = adj.TryAdd(detail[0], new());
+            adj[detail[0]].Add((detail[1], detail[2]));
+            _ = adj.TryAdd(detail[1], new());
+            adj[detail[1]].Add((detail[0], detail[2]));
         }
-        var minScore = int.MaxValue;
-        var visited = new HashSet<int>();
-        var queue = new Queue<int>();
-        queue.Enqueue(1);
+
+        int[] distances = new int[n + 1];
+        Array.Fill(distances, int.MaxValue);
+
+        HashSet<int> visited = new();
+        PriorityQueue<int, int> queue = new();
+        queue.Enqueue(1, 0);
+        int min = int.MaxValue;
         while (queue.Count > 0)
         {
-            var node = queue.Dequeue();
-            foreach (var adj in graph[node].Keys)
+            _ = queue.TryDequeue(out int origin, out int distance);
+            if (visited.Contains(origin))
             {
-                if (!visited.Contains(adj))
+                continue;
+            }
+
+            visited.Add(origin);
+            distances[origin] = distance;
+            foreach ((int neighbor, int neighborDistance) in adj[origin])
+            {
+                min = Math.Min(min, neighborDistance);
+                int newDistance = distance + neighborDistance;
+                if (distances[neighbor] > newDistance)
                 {
-                    queue.Enqueue(adj);
-                    visited.Add(adj);
+                    distances[neighbor] = newDistance;
+                    queue.Enqueue(neighbor, newDistance);
                 }
-                minScore = Math.Min(minScore, graph[node][adj]);
             }
         }
-        return minScore;
+
+        return min;
     }
 }
