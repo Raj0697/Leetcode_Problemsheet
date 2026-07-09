@@ -119,4 +119,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
