@@ -122,5 +122,6 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
