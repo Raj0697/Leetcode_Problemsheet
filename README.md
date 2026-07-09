@@ -15,6 +15,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -32,6 +33,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -64,6 +66,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -101,4 +104,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
