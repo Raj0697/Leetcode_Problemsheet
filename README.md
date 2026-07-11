@@ -132,6 +132,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0595-big-countries) |
