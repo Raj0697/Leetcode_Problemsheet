@@ -1,2 +1,4 @@
-/* Write your T-SQL query statement below */
-select email from Person group by email having count(email) > 1
+# Write your MySQL query statement below
+SELECT email from Person
+group by email
+having count(email) > 1;
