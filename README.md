@@ -169,6 +169,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0595-big-countries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1251-average-selling-price) |
