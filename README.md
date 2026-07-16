@@ -38,6 +38,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -142,6 +143,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
 | ------- |
