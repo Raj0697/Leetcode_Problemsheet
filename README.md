@@ -185,6 +185,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1661-average-time-of-process-per-machine](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1934-confirmation-rate) |
