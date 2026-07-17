@@ -174,6 +174,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0197-rising-temperature) |
