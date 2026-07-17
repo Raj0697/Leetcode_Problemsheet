@@ -203,6 +203,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1789-primary-department-for-each-employee) |
+| [1907-count-salary-categories](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
