@@ -13,6 +13,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0025-reverse-nodes-in-k-group](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -250,6 +252,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
