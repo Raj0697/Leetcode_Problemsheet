@@ -257,6 +257,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 ## Simulation
 |  |
@@ -268,4 +269,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
