@@ -7,6 +7,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0328-odd-even-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
