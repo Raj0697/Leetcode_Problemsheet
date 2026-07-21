@@ -189,6 +189,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
