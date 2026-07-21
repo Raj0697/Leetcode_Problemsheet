@@ -173,6 +173,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
+| [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
@@ -289,6 +290,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
