@@ -30,6 +30,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -90,6 +91,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
@@ -240,6 +242,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
