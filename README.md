@@ -132,6 +132,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0102-binary-tree-level-order-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
@@ -192,6 +193,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
@@ -225,6 +227,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
