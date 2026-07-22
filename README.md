@@ -72,6 +72,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0046-permutations) |
@@ -262,6 +263,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
@@ -272,6 +274,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
