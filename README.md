@@ -24,6 +24,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
@@ -43,6 +44,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
@@ -68,6 +70,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -260,6 +263,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
