@@ -7,6 +7,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
