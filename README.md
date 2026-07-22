@@ -67,6 +67,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -92,6 +93,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0152-maximum-product-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
@@ -133,6 +135,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0275-h-index-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
@@ -256,6 +259,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
