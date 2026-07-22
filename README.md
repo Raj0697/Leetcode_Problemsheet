@@ -24,6 +24,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -75,6 +76,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0015-3sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0046-permutations) |
@@ -177,6 +179,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
