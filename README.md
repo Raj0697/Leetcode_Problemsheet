@@ -10,6 +10,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
@@ -30,6 +31,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -262,6 +264,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
