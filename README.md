@@ -32,6 +32,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -95,6 +96,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0275-h-index-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0275-h-index-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
@@ -243,6 +245,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -371,6 +374,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -459,4 +463,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
