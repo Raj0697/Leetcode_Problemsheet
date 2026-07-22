@@ -27,6 +27,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -44,6 +45,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
@@ -71,6 +73,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
@@ -186,6 +189,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
@@ -364,6 +368,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 ## Tree
 |  |
@@ -413,4 +418,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
