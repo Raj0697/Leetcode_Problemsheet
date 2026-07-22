@@ -33,6 +33,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
@@ -72,6 +73,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -100,6 +102,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
