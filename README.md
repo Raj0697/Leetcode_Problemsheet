@@ -111,6 +111,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0275-h-index-ii) |
@@ -210,6 +211,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0036-valid-sudoku](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
@@ -244,6 +246,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
