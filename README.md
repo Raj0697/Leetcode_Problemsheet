@@ -104,6 +104,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0152-maximum-product-subarray) |
@@ -401,6 +402,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
