@@ -8,6 +8,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
@@ -298,6 +299,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0031-next-permutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
