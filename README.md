@@ -406,6 +406,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -518,6 +519,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
