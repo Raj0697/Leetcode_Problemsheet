@@ -294,6 +294,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
