@@ -45,6 +45,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
+| [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -86,6 +87,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
+| [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -139,6 +141,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
+| [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
@@ -227,6 +230,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
+| [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
