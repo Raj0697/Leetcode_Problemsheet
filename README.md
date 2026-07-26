@@ -74,6 +74,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
+| [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
@@ -230,6 +231,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
+| [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -441,6 +443,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
+| [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
