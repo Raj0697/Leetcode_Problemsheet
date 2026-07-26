@@ -126,6 +126,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
@@ -315,6 +316,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0172-factorial-trailing-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
+| [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -592,4 +594,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
