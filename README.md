@@ -524,6 +524,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 ## Tree
 |  |
