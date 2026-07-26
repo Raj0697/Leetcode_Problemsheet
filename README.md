@@ -16,6 +16,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
+| [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
@@ -488,6 +490,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0173-binary-search-tree-iterator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -582,6 +585,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
 ## Memoization
 |  |
 | ------- |
