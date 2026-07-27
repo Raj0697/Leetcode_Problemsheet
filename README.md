@@ -78,6 +78,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
+| [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
@@ -209,6 +210,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
+| [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
@@ -298,6 +300,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0790-domino-and-tromino-tiling) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
@@ -485,6 +488,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0173-binary-search-tree-iterator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
+| [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
@@ -598,6 +602,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 ## Counting Sort
 |  |
 | ------- |
