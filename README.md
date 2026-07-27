@@ -50,6 +50,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
@@ -155,6 +156,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -305,6 +307,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0790-domino-and-tromino-tiling) |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -351,6 +354,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -468,6 +472,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -652,4 +657,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
+## Bitmask
+|  |
+| ------- |
+| [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
