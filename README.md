@@ -186,6 +186,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
+| [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -344,6 +345,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
