@@ -148,6 +148,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +189,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -584,6 +586,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -620,18 +623,22 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 ## Eulerian Circuit
 |  |
 | ------- |
