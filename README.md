@@ -159,6 +159,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
@@ -225,6 +226,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
@@ -254,6 +256,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0630-course-schedule-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0630-course-schedule-iii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -269,6 +272,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
