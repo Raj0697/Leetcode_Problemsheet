@@ -200,6 +200,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
+| [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
@@ -322,6 +323,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0790-domino-and-tromino-tiling) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -372,6 +374,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
