@@ -154,6 +154,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0517-super-washing-machines](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0517-super-washing-machines) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
+| [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
@@ -366,6 +367,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
+| [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -673,6 +675,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
+| [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
 ## Sweep Line
 |  |
 | ------- |
