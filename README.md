@@ -310,6 +310,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
+| [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -355,6 +356,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
@@ -537,6 +539,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -731,4 +734,5 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 <!---LeetCode Topics End-->
