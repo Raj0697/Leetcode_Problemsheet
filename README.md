@@ -90,6 +90,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
@@ -106,6 +107,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -221,6 +223,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -735,4 +738,16 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
