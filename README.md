@@ -52,6 +52,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
@@ -167,6 +168,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -231,6 +233,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
+| [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
