@@ -181,6 +181,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
@@ -316,6 +317,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -371,6 +373,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
+| [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0790-domino-and-tromino-tiling) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
