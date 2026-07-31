@@ -25,6 +25,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
+| [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0745-prefix-and-suffix-search](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0745-prefix-and-suffix-search) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
+| [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
@@ -96,6 +98,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0730-count-different-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0730-count-different-palindromic-subsequences) |
 | [0745-prefix-and-suffix-search](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0745-prefix-and-suffix-search) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
+| [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
@@ -459,6 +462,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
+| [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
@@ -636,6 +640,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0591-tag-validator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0591-tag-validator) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
+| [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
