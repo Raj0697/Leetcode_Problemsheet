@@ -202,6 +202,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
+| [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
@@ -254,6 +255,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
+| [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
@@ -859,4 +861,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
