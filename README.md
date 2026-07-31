@@ -369,6 +369,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
@@ -647,6 +648,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0829-consecutive-numbers-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
 | [1291-sequential-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1291-sequential-digits) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 ## Number Theory
 |  |
