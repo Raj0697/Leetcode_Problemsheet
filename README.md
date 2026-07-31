@@ -57,6 +57,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -198,6 +199,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -286,6 +288,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -302,6 +305,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0130-surrounded-regions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -355,6 +359,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -440,6 +445,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0872-leaf-similar-trees) |
+| [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
