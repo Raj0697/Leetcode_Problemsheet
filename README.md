@@ -469,6 +469,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
+| [0829-consecutive-numbers-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0829-consecutive-numbers-sum) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
@@ -625,6 +626,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
+| [0829-consecutive-numbers-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
 | [1291-sequential-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1291-sequential-digits) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
