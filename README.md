@@ -102,6 +102,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
+| [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -411,6 +412,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0818-race-car](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0818-race-car) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
+| [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
