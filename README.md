@@ -208,6 +208,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
@@ -431,6 +432,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
@@ -532,6 +534,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
