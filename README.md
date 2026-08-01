@@ -212,6 +212,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -300,6 +301,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -352,6 +354,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
