@@ -252,6 +252,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -599,6 +601,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Database
 |  |
 | ------- |
@@ -656,6 +659,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Bit Manipulation
 |  |
 | ------- |
