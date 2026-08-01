@@ -261,6 +261,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
@@ -484,6 +485,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0483-smallest-good-base) |
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
