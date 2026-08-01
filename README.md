@@ -117,6 +117,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -460,6 +461,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
+| [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
