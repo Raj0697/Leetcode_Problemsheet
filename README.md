@@ -216,6 +216,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
@@ -405,6 +406,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -566,6 +568,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
+| [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
@@ -748,6 +751,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
+| [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
