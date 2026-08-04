@@ -471,6 +471,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1012-numbers-with-repeated-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1012-numbers-with-repeated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
@@ -562,6 +563,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
 | [0972-equal-rational-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0972-equal-rational-numbers) |
+| [1012-numbers-with-repeated-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1012-numbers-with-repeated-digits) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
