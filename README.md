@@ -214,6 +214,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
@@ -332,6 +333,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
@@ -395,6 +397,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -462,6 +465,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0730-count-different-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0790-domino-and-tromino-tiling](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0790-domino-and-tromino-tiling) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
@@ -611,6 +615,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 ## Two Pointers
 |  |
@@ -918,6 +923,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -1022,4 +1028,16 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
