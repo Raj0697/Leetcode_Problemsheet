@@ -216,6 +216,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
@@ -330,6 +331,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
@@ -350,6 +352,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -390,6 +393,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
+| [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
@@ -512,6 +516,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0872-leaf-similar-trees) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
