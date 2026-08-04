@@ -215,6 +215,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0757-set-intersection-size-at-least-two](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0757-set-intersection-size-at-least-two) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
@@ -295,6 +296,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -334,6 +336,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
@@ -356,6 +359,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
@@ -376,6 +380,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0630-course-schedule-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -398,6 +403,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -523,6 +529,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0872-leaf-similar-trees) |
@@ -1040,4 +1047,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
