@@ -212,6 +212,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0757-set-intersection-size-at-least-two](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0757-set-intersection-size-at-least-two) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
@@ -579,6 +580,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
+| [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
