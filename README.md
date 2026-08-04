@@ -59,6 +59,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
@@ -109,6 +110,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0761-special-binary-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
@@ -485,6 +487,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0801-minimum-swaps-to-make-sequences-increasing) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0818-race-car](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0818-race-car) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
