@@ -112,6 +112,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
+| [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [0972-equal-rational-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0972-equal-rational-numbers) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
@@ -712,6 +713,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0757-set-intersection-size-at-least-two](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -771,6 +773,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
+| [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Design
@@ -810,6 +813,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
+| [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Data Stream
 |  |
