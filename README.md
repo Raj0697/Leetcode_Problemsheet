@@ -87,6 +87,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0038-count-and-say](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
