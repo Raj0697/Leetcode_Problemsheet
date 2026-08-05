@@ -88,6 +88,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
@@ -570,6 +571,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
@@ -848,6 +850,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
