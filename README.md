@@ -759,6 +759,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1741-find-total-time-spent-by-each-employee) |
