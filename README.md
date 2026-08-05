@@ -472,6 +472,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0063-unique-paths-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0120-triangle) |
@@ -654,6 +655,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0077-combinations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
@@ -903,6 +905,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -924,6 +927,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -941,6 +945,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0095-unique-binary-search-trees-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0450-delete-node-in-a-bst) |
