@@ -239,6 +239,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
+| [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
@@ -426,6 +427,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
+| [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
@@ -664,6 +666,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
+| [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 ## Two Pointers
 |  |
@@ -808,6 +811,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
@@ -1150,4 +1154,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
