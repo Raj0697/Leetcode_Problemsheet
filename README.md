@@ -457,6 +457,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
+| [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -577,6 +578,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
@@ -1177,4 +1179,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
