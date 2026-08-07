@@ -68,6 +68,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
@@ -256,6 +257,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -528,6 +530,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
