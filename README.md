@@ -107,6 +107,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0591-tag-validator) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0730-count-different-palindromic-subsequences) |
 | [0736-parse-lisp-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0736-parse-lisp-expression) |
 | [0745-prefix-and-suffix-search](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0745-prefix-and-suffix-search) |
@@ -502,6 +503,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0746-min-cost-climbing-stairs) |
@@ -1187,4 +1189,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
