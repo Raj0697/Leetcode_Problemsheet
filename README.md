@@ -75,6 +75,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -283,6 +284,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1224-maximum-equal-frequency](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1224-maximum-equal-frequency) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1306-jump-game-iii) |
@@ -478,6 +480,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0931-minimum-falling-path-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -978,6 +981,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [1041-robot-bounded-in-circle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1041-robot-bounded-in-circle) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
