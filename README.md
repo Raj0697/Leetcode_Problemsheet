@@ -496,6 +496,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1192-critical-connections-in-a-network](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1192-critical-connections-in-a-network) |
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
+| [1615-maximal-network-rank](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1615-maximal-network-rank) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
