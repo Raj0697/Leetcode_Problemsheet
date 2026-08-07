@@ -47,6 +47,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
@@ -106,6 +107,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0383-ransom-note](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
@@ -777,6 +779,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0354-russian-doll-envelopes) |
+| [0389-find-the-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
 | [0611-valid-triangle-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0611-valid-triangle-number) |
@@ -886,6 +889,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0190-reverse-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0389-find-the-difference) |
 | [0782-transform-to-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
