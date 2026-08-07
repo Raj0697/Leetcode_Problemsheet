@@ -106,6 +106,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0591-tag-validator) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
@@ -209,6 +210,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
@@ -514,6 +516,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
@@ -1230,9 +1233,14 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
