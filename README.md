@@ -375,6 +375,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 | [0815-bus-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
@@ -468,6 +469,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
@@ -577,6 +579,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -598,6 +601,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0872-leaf-similar-trees) |
@@ -1243,4 +1247,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
