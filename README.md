@@ -212,6 +212,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0485-max-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0517-super-washing-machines](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
@@ -512,6 +513,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0435-non-overlapping-intervals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
+| [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
@@ -1223,4 +1225,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0337-house-robber-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
