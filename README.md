@@ -237,6 +237,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
+| [0682-baseball-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0699-falling-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0699-falling-squares) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
@@ -939,6 +940,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0445-add-two-numbers-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0591-tag-validator) |
+| [0682-baseball-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0736-parse-lisp-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0736-parse-lisp-expression) |
 | [0739-daily-temperatures](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0739-daily-temperatures) |
@@ -970,6 +972,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0043-multiply-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0043-multiply-strings) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
+| [0682-baseball-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [1041-robot-bounded-in-circle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1041-robot-bounded-in-circle) |
