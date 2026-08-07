@@ -227,6 +227,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0679-24-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0679-24-game) |
+| [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0699-falling-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0699-falling-squares) |
 | [0710-random-pick-with-blacklist](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0710-random-pick-with-blacklist) |
 | [0735-asteroid-collision](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0735-asteroid-collision) |
@@ -371,6 +372,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
@@ -400,6 +402,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0130-surrounded-regions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
@@ -443,6 +446,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
@@ -598,6 +602,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
+| [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0749-contain-virus](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0749-contain-virus) |
 | [0753-cracking-the-safe](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0765-couples-holding-hands) |
