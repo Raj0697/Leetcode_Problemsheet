@@ -111,6 +111,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0420-strong-password-checker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
+| [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0591-tag-validator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0591-tag-validator) |
@@ -1301,4 +1302,16 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0797-all-paths-from-source-to-target) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
