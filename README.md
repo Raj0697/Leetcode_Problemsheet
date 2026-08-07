@@ -64,6 +64,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
@@ -251,6 +252,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -328,6 +330,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0887-super-egg-drop](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
@@ -527,6 +530,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1012-numbers-with-repeated-digits) |
+| [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
