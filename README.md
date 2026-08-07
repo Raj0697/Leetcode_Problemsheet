@@ -217,6 +217,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0517-super-washing-machines](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
@@ -370,6 +371,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0433-minimum-genetic-mutation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0433-minimum-genetic-mutation) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
@@ -447,6 +449,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
+| [0542-01-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0542-01-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0695-max-area-of-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0695-max-area-of-island) |
 | [0741-cherry-pickup](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0741-cherry-pickup) |
@@ -528,6 +531,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0474-ones-and-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0518-coin-change-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0639-decode-ways-ii) |
