@@ -259,6 +259,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0827-making-a-large-island](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0827-making-a-large-island) |
 | [0850-rectangle-area-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0850-rectangle-area-ii) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
+| [0896-monotonic-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0896-monotonic-array) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0924-minimize-malware-spread](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
