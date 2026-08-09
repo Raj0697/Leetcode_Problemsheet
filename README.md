@@ -277,6 +277,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
 | [1095-find-in-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -579,6 +580,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1012-numbers-with-repeated-digits) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
@@ -696,6 +698,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0972-equal-rational-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0972-equal-rational-numbers) |
 | [1012-numbers-with-repeated-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1012-numbers-with-repeated-digits) |
 | [1041-robot-bounded-in-circle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1041-robot-bounded-in-circle) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
@@ -724,6 +727,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0903-valid-permutations-for-di-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -1212,6 +1216,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 ## Interactive
@@ -1242,6 +1247,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -1254,6 +1260,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
+| [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 ## Impartial Game
 |  |
 | ------- |
