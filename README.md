@@ -297,6 +297,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1388-pizza-with-3n-slices](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1388-pizza-with-3n-slices) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1470-shuffle-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1470-shuffle-the-array) |
@@ -600,6 +601,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
@@ -924,6 +926,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
@@ -1207,6 +1210,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1358,4 +1362,16 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Bipartite Graph
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Perfect Matching
+|  |
+| ------- |
+| [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 <!---LeetCode Topics End-->
