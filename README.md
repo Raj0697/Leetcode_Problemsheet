@@ -145,6 +145,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [1397-find-all-good-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1397-find-all-good-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -591,6 +592,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1388-pizza-with-3n-slices](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1388-pizza-with-3n-slices) |
+| [1397-find-all-good-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1397-find-all-good-strings) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1332,6 +1334,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [1397-find-all-good-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1397-find-all-good-strings) |
 ## Z Algorithm
 |  |
 | ------- |
