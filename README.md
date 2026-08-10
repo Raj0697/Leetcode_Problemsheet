@@ -297,6 +297,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1388-pizza-with-3n-slices](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1388-pizza-with-3n-slices) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1470-shuffle-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -365,6 +366,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -458,6 +460,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1388-pizza-with-3n-slices](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1388-pizza-with-3n-slices) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -488,6 +491,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1301-number-of-paths-with-max-score) |
+| [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
