@@ -595,6 +595,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1397-find-all-good-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1397-find-all-good-strings) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
@@ -735,6 +736,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1000-minimum-cost-to-merge-stones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1004-max-consecutive-ones-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
