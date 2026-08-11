@@ -152,6 +152,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1531-string-compression-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1531-string-compression-ii) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1542-find-longest-awesome-substring) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -848,6 +849,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -932,6 +934,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
