@@ -316,6 +316,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -625,6 +626,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1531-string-compression-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1531-string-compression-ii) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
@@ -845,6 +847,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
