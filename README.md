@@ -167,6 +167,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 ## Array
 |  |
@@ -304,6 +305,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1470-shuffle-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
@@ -466,6 +468,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1388-pizza-with-3n-slices](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1388-pizza-with-3n-slices) |
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
+| [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1029,6 +1032,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0933-number-of-recent-calls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0933-number-of-recent-calls) |
 | [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Data Stream
 |  |
@@ -1244,6 +1248,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 ## Game Theory
 |  |
