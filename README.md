@@ -318,6 +318,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -629,6 +630,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -1174,6 +1176,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0964-least-operators-to-express-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0964-least-operators-to-express-number) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 ## Counting Sort
 |  |
