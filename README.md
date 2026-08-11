@@ -307,6 +307,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
@@ -374,6 +375,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -939,6 +941,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1183,6 +1186,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0715-range-module](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0715-range-module) |
 | [0850-rectangle-area-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0850-rectangle-area-ii) |
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Merge Sort
@@ -1390,4 +1394,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
+## Sparse Table
+|  |
+| ------- |
+| [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 <!---LeetCode Topics End-->
