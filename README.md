@@ -327,6 +327,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
@@ -465,6 +466,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -524,6 +526,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1591-strange-printer-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1591-strange-printer-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -551,6 +554,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1591-strange-printer-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1591-strange-printer-ii) |
 | [1615-maximal-network-rank](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1615-maximal-network-rank) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
@@ -672,6 +676,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0802-find-eventual-safe-states) |
 | [1591-strange-printer-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1591-strange-printer-ii) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
@@ -876,6 +881,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
+| [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
