@@ -28,6 +28,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0736-parse-lisp-expression) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -643,6 +644,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -759,6 +761,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
@@ -982,6 +985,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1542-find-longest-awesome-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1542-find-longest-awesome-substring) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1202,6 +1206,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 ## Counting Sort
 |  |
