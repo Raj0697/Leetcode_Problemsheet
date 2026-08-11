@@ -322,6 +322,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1591-strange-printer-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1591-strange-printer-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -807,6 +808,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0797-all-paths-from-source-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 ## Two Pointers
 |  |
 | ------- |
@@ -977,6 +979,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1542-find-longest-awesome-substring) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -990,6 +993,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0829-consecutive-numbers-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
 | [1291-sequential-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
