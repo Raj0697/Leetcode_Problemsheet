@@ -332,6 +332,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -399,6 +400,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -660,6 +662,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -976,6 +979,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
