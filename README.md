@@ -83,6 +83,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -335,6 +336,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -664,6 +666,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -1017,6 +1020,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
+| [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1335,6 +1339,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
+| [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Rolling Hash
