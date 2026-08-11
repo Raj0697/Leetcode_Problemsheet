@@ -645,6 +645,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -986,6 +987,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1000,6 +1002,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
 | [1291-sequential-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1291-sequential-digits) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
@@ -1129,6 +1132,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1377-frog-position-after-t-seconds](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1377-frog-position-after-t-seconds) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -1288,6 +1292,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1434-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1434-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Rolling Hash
