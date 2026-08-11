@@ -313,6 +313,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -621,6 +622,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1494-parallel-courses-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1494-parallel-courses-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1531-string-compression-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1531-string-compression-ii) |
+| [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
@@ -804,6 +806,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0763-partition-labels](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0763-partition-labels) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1163-last-substring-in-lexicographical-order) |
+| [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
@@ -923,6 +926,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
