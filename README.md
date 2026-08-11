@@ -329,6 +329,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
@@ -394,6 +395,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1196,6 +1198,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [0761-special-binary-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0761-special-binary-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 ## Quickselect
 |  |
 | ------- |
@@ -1248,6 +1251,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1261,6 +1265,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1521-find-a-value-of-a-mysterious-function-closest-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1521-find-a-value-of-a-mysterious-function-closest-to-target) |
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Merge Sort
@@ -1268,6 +1273,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1277,6 +1283,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0715-range-module](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0715-range-module) |
 | [0850-rectangle-area-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0850-rectangle-area-ii) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Eulerian Circuit
