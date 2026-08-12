@@ -341,6 +341,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
@@ -1025,6 +1026,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -1148,6 +1150,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0745-prefix-and-suffix-search](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0745-prefix-and-suffix-search) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Tree
 |  |
 | ------- |
