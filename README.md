@@ -348,6 +348,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
@@ -408,6 +409,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -507,6 +509,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
@@ -910,6 +913,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1338,6 +1342,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0850-rectangle-area-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0850-rectangle-area-ii) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bitmask
 |  |
 | ------- |
