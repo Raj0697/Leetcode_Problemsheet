@@ -87,6 +87,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -158,6 +159,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1542-find-longest-awesome-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1542-find-longest-awesome-substring) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -357,6 +359,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -746,6 +749,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -921,6 +925,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1164,6 +1169,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Tree
 |  |
 | ------- |
@@ -1380,6 +1386,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Monotonic Queue
 |  |
 | ------- |
