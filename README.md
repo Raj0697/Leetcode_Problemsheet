@@ -354,6 +354,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -577,6 +578,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
@@ -683,6 +685,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1422,6 +1425,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0778-swim-in-rising-water) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Brainteaser
 |  |
 | ------- |
