@@ -90,6 +90,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1938-maximum-genetic-difference-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -368,6 +369,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1955-count-number-of-special-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1955-count-number-of-special-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -705,6 +707,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1955-count-number-of-special-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1955-count-number-of-special-subsequences) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1987-number-of-unique-good-subsequences) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -825,6 +828,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1065,6 +1069,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1938-maximum-genetic-difference-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1938-maximum-genetic-difference-query) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1088,6 +1093,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -1158,6 +1164,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
@@ -1391,6 +1398,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1659-maximize-grid-happiness](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1681-minimum-incompatibility) |
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Rolling Hash
 |  |
@@ -1581,4 +1589,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Sieve Theory
+|  |
+| ------- |
+| [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 <!---LeetCode Topics End-->
