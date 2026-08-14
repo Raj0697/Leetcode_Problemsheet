@@ -89,6 +89,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1938-maximum-genetic-difference-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -365,6 +366,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1955-count-number-of-special-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1955-count-number-of-special-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -938,6 +940,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1152,6 +1155,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
+| [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
