@@ -686,6 +686,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1931-painting-a-grid-with-three-different-colors) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -1515,6 +1516,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1931-painting-a-grid-with-three-different-colors](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1931-painting-a-grid-with-three-different-colors) |
 ## Bipartite Graph
 |  |
 | ------- |
