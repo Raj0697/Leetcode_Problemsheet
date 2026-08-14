@@ -359,6 +359,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1097,6 +1098,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Design
 |  |
@@ -1159,6 +1161,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Trie
 |  |
