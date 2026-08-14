@@ -90,6 +90,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -160,6 +161,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -180,6 +182,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
 | ------- |
