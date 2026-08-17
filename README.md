@@ -95,6 +95,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
+| [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -393,6 +394,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2097-valid-arrangement-of-pairs) |
+| [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -956,6 +958,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -1004,6 +1007,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1144,6 +1148,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2081-sum-of-k-mirror-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2081-sum-of-k-mirror-numbers) |
+| [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 ## Number Theory
