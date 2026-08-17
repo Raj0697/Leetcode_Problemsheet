@@ -384,6 +384,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -443,6 +444,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
