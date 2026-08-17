@@ -94,6 +94,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -381,6 +382,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -875,6 +877,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [1732-find-the-highest-altitude](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1732-find-the-highest-altitude) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -1109,6 +1112,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 ## Number Theory
@@ -1193,6 +1197,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
