@@ -525,6 +525,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2076-process-restricted-friend-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -621,6 +622,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2076-process-restricted-friend-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2076-process-restricted-friend-requests) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
