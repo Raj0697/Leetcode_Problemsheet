@@ -388,6 +388,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -448,6 +449,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -939,6 +941,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -986,6 +989,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1069,6 +1073,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1218,6 +1223,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Data Stream
 |  |
 | ------- |
@@ -1469,6 +1475,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1425-constrained-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1425-constrained-subsequence-sum) |
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 ## Game Theory
 |  |
 | ------- |
