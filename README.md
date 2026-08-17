@@ -172,6 +172,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -387,6 +388,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -923,6 +925,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Two Pointers
 |  |
@@ -1208,6 +1211,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
