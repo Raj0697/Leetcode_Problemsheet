@@ -373,6 +373,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1982-find-array-given-subset-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1982-find-array-given-subset-sums) |
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -507,6 +508,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1632-rank-transform-of-a-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -714,6 +716,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1987-number-of-unique-good-subsequences) |
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -775,6 +778,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1938-maximum-genetic-difference-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -1234,6 +1238,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Binary Tree
 |  |
