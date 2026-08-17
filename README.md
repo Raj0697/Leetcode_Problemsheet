@@ -387,6 +387,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -617,6 +618,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1782-count-pairs-of-nodes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1782-count-pairs-of-nodes) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
@@ -913,6 +915,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Two Pointers
 |  |
 | ------- |
