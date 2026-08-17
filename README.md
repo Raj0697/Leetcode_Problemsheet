@@ -331,6 +331,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1591-strange-printer-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1591-strange-printer-ii) |
@@ -685,6 +686,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1537-get-the-maximum-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1537-get-the-maximum-score) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1563-stone-game-v](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1575-count-all-possible-routes) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
@@ -819,6 +821,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
+| [1563-stone-game-v](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1429,6 +1432,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0810-chalkboard-xor-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0810-chalkboard-xor-game) |
 | [1140-stone-game-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1563-stone-game-v) |
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 ## Interactive
 |  |
