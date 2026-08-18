@@ -180,6 +180,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -767,6 +768,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
