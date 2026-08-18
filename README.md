@@ -177,6 +177,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -201,6 +202,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1703-minimum-adjacent-swaps-for-k-consecutive-ones](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1703-minimum-adjacent-swaps-for-k-consecutive-ones) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -1498,6 +1500,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 ## Suffix Array
 |  |
 | ------- |
@@ -1509,6 +1512,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 ## Monotonic Queue
 |  |
 | ------- |
