@@ -182,6 +182,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -989,6 +990,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -1124,6 +1126,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1447,6 +1450,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
+| [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Segment Tree
 |  |
 | ------- |
