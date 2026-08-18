@@ -100,6 +100,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -185,6 +186,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -416,6 +418,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
@@ -1258,6 +1261,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -1322,6 +1326,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1938-maximum-genetic-difference-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1938-maximum-genetic-difference-query) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 ## Tree
 |  |
 | ------- |
