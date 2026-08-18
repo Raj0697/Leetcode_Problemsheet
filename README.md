@@ -408,6 +408,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
@@ -469,6 +470,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1380,6 +1382,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0761-special-binary-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0761-special-binary-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -1436,6 +1439,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1157-online-majority-element-in-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1157-online-majority-element-in-subarray) |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1451,6 +1455,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Merge Sort
 |  |
@@ -1458,6 +1463,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1470,6 +1476,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
+| [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Eulerian Circuit
 |  |
