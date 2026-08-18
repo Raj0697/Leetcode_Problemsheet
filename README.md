@@ -585,6 +585,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1851-minimum-interval-to-include-each-query](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
@@ -656,6 +657,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2076-process-restricted-friend-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2076-process-restricted-friend-requests) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2097-valid-arrangement-of-pairs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
@@ -666,6 +668,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Shortest Path
 |  |
 | ------- |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
