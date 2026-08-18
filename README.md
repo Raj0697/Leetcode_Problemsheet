@@ -184,6 +184,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -477,6 +478,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1543,10 +1545,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
@@ -1555,6 +1559,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1683,16 +1688,19 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
 | [1397-find-all-good-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1397-find-all-good-strings) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0459-repeated-substring-pattern) |
 | [1392-longest-happy-prefix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Graph Coloring
 |  |
 | ------- |
