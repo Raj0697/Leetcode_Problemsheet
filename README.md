@@ -411,6 +411,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
@@ -775,6 +776,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
