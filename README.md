@@ -407,6 +407,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
+| [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
@@ -769,6 +770,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
+| [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -1155,6 +1157,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
+| [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -1504,6 +1507,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1755-closest-subsequence-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1755-closest-subsequence-sum) |
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 ## Rolling Hash
 |  |
 | ------- |
