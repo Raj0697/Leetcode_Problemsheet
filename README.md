@@ -425,6 +425,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2312-selling-pieces-of-wood](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2312-selling-pieces-of-wood) |
+| [2321-maximum-score-of-spliced-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2321-maximum-score-of-spliced-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -798,6 +799,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2312-selling-pieces-of-wood) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2318-number-of-distinct-roll-sequences) |
+| [2321-maximum-score-of-spliced-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2321-maximum-score-of-spliced-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
