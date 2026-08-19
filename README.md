@@ -212,6 +212,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
@@ -422,6 +423,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -484,6 +486,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -952,6 +955,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
