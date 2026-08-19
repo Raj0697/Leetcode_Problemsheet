@@ -797,6 +797,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2312-selling-pieces-of-wood](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2312-selling-pieces-of-wood) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2318-number-of-distinct-roll-sequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1456,6 +1457,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1728-cat-and-mouse-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1728-cat-and-mouse-ii) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2312-selling-pieces-of-wood](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2312-selling-pieces-of-wood) |
+| [2318-number-of-distinct-roll-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2318-number-of-distinct-roll-sequences) |
 ## Counting Sort
 |  |
 | ------- |
