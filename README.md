@@ -426,6 +426,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2312-selling-pieces-of-wood](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2312-selling-pieces-of-wood) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2321-maximum-score-of-spliced-array) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -865,6 +866,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2097-valid-arrangement-of-pairs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -1196,6 +1198,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
@@ -1374,6 +1377,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Binary Tree
 |  |
