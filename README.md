@@ -808,6 +808,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2318-number-of-distinct-roll-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2321-maximum-score-of-spliced-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2321-maximum-score-of-spliced-array) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -943,6 +944,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -1240,6 +1242,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
@@ -1452,6 +1455,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1768,6 +1772,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
@@ -1788,6 +1793,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
+| [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 ## Euclidean Algorithm
 |  |
 | ------- |
