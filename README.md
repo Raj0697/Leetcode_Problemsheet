@@ -428,6 +428,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2321-maximum-score-of-spliced-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2321-maximum-score-of-spliced-array) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -571,6 +572,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2076-process-restricted-friend-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2076-process-restricted-friend-requests) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1268,6 +1270,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Design
 |  |
 | ------- |
@@ -1341,6 +1344,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
+| [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Trie
 |  |
 | ------- |
