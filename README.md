@@ -429,6 +429,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -604,6 +605,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
@@ -945,6 +947,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -1082,6 +1085,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1243,6 +1247,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
@@ -1799,12 +1804,14 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1998-gcd-sort-of-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Semi-Eulerian Graph
 |  |
 | ------- |
