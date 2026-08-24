@@ -435,6 +435,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2354-number-of-excellent-pairs) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -955,6 +956,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1181,6 +1183,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
