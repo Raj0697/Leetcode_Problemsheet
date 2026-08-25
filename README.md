@@ -436,6 +436,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2354-number-of-excellent-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2354-number-of-excellent-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -582,6 +583,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2076-process-restricted-friend-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2076-process-restricted-friend-requests) |
 | [2157-groups-of-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2157-groups-of-strings) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -987,6 +989,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -1564,6 +1567,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
+| [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Eulerian Circuit
 |  |
