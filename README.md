@@ -189,6 +189,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -215,6 +216,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
