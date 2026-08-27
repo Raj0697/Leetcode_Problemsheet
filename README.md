@@ -440,6 +440,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2412-minimum-money-required-before-transactions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2412-minimum-money-required-before-transactions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1101,6 +1102,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2412-minimum-money-required-before-transactions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2412-minimum-money-required-before-transactions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1189,6 +1191,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2412-minimum-money-required-before-transactions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2412-minimum-money-required-before-transactions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
