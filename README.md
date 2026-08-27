@@ -45,6 +45,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
@@ -125,6 +126,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0126-word-ladder-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0242-valid-anagram) |
@@ -918,6 +920,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0089-gray-code](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
