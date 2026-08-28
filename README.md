@@ -467,6 +467,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1492,6 +1493,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Binary Tree
 |  |
@@ -1519,6 +1521,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1939,4 +1942,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0187-repeated-dna-sequences) |
+## Binary Lifting
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 <!---LeetCode Topics End-->
