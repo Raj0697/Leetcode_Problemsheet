@@ -959,6 +959,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0166-fraction-to-recurring-decimal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
@@ -1668,6 +1669,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0587-erect-the-fence) |
