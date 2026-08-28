@@ -197,6 +197,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
+| [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -848,6 +849,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
+| [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
