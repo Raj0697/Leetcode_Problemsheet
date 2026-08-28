@@ -195,6 +195,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2223-sum-of-scores-of-built-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -844,6 +845,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1072,6 +1074,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2122-recover-the-original-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2122-recover-the-original-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1225,6 +1228,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2412-minimum-money-required-before-transactions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2412-minimum-money-required-before-transactions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
