@@ -27,6 +27,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0050-powx-n](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0736-parse-lisp-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0736-parse-lisp-expression) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
@@ -135,6 +136,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0179-largest-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
@@ -764,6 +766,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0152-maximum-product-subarray](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -961,6 +964,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1580,6 +1584,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0546-remove-boxes) |
@@ -1969,4 +1974,8 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
