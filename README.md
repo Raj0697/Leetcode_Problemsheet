@@ -196,6 +196,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2227-encrypt-and-decrypt-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -846,6 +847,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1018,6 +1020,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
