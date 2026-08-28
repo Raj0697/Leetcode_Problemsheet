@@ -108,6 +108,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2354-number-of-excellent-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2354-number-of-excellent-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -462,6 +463,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1250,6 +1252,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1412,6 +1415,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
