@@ -199,6 +199,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3563-lexicographically-smallest-string-after-adjacent-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3563-lexicographically-smallest-string-after-adjacent-removals) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -1070,6 +1071,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -1284,6 +1286,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
