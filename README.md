@@ -110,6 +110,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -201,6 +202,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1005,6 +1007,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1416,6 +1419,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2025-maximum-number-of-ways-to-partition-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2025-maximum-number-of-ways-to-partition-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
@@ -1553,6 +1557,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1643-kth-smallest-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1643-kth-smallest-instructions) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Doubly-Linked List
 |  |
@@ -1875,6 +1880,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
