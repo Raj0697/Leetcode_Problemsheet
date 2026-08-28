@@ -265,6 +265,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0162-find-peak-element](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0216-combination-sum-iii) |
@@ -955,6 +956,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0150-evaluate-reverse-polish-notation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
@@ -1310,6 +1312,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0479-largest-palindrome-product](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0829-consecutive-numbers-sum) |
 | [0906-super-palindromes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0906-super-palindromes) |
@@ -1329,6 +1332,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0952-largest-component-size-by-common-factor) |
 | [1622-fancy-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1627-graph-connectivity-with-threshold) |
@@ -1901,6 +1905,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [1994-the-number-of-good-subsets](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1994-the-number-of-good-subsets) |
 ## Prime Factorization
 |  |
@@ -1952,4 +1957,12 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
