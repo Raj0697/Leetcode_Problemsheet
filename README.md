@@ -475,6 +475,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2518-number-of-great-partitions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2532-time-to-cross-a-bridge](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2532-time-to-cross-a-bridge) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -663,6 +664,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2532-time-to-cross-a-bridge](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2532-time-to-cross-a-bridge) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
@@ -1424,6 +1426,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1929-concatenation-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1929-concatenation-of-array) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
+| [2532-time-to-cross-a-bridge](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2532-time-to-cross-a-bridge) |
 ## Counting
 |  |
 | ------- |
