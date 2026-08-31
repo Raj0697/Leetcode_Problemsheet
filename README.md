@@ -112,6 +112,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -477,6 +478,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2532-time-to-cross-a-bridge](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2532-time-to-cross-a-bridge) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -882,6 +884,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
 | [2518-number-of-great-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2518-number-of-great-partitions) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1447,6 +1450,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
 |  |
