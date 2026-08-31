@@ -607,6 +607,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -751,6 +752,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
