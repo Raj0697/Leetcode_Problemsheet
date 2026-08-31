@@ -234,6 +234,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -473,6 +474,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2518-number-of-great-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2518-number-of-great-partitions) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -538,6 +540,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2354-number-of-excellent-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2354-number-of-excellent-pairs) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1054,6 +1057,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -1268,6 +1272,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2449-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2449-minimum-number-of-operations-to-make-arrays-similar) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1444,6 +1449,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1499-max-value-of-equation](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1499-max-value-of-equation) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Data Stream
 |  |
 | ------- |
