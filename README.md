@@ -480,6 +480,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -749,6 +750,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -907,6 +909,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2050-parallel-courses-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2050-parallel-courses-iii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -1531,6 +1534,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
+| [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Binary Tree
 |  |
