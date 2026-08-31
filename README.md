@@ -479,6 +479,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2532-time-to-cross-a-bridge](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2532-time-to-cross-a-bridge) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -545,6 +546,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1187,6 +1189,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1282,6 +1285,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1399,6 +1403,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
+| [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 ## Design
 |  |
 | ------- |
