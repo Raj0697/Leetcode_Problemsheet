@@ -210,6 +210,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2663-lexicographically-smallest-beautiful-string) |
+| [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -909,6 +910,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
 | [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
@@ -1059,6 +1061,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2543-check-if-point-is-reachable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2543-check-if-point-is-reachable) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
+| [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
