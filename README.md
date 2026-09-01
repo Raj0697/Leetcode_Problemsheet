@@ -114,6 +114,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2732-find-a-good-subset-of-the-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -487,6 +488,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2732-find-a-good-subset-of-the-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
 | [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
@@ -725,6 +727,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2352-equal-row-and-column-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2352-equal-row-and-column-pairs) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2732-find-a-good-subset-of-the-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -1359,6 +1362,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2172-maximum-and-sum-of-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2172-maximum-and-sum-of-array) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2354-number-of-excellent-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2354-number-of-excellent-pairs) |
+| [2732-find-a-good-subset-of-the-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
