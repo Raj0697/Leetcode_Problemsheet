@@ -116,6 +116,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2732-find-a-good-subset-of-the-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2732-find-a-good-subset-of-the-matrix) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -211,6 +212,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -241,6 +243,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2156-find-substring-with-given-hash-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2156-find-substring-with-given-hash-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -493,6 +496,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
 | [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
