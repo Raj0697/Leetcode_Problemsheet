@@ -487,6 +487,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -903,6 +904,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
