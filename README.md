@@ -497,6 +497,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2742-painting-the-walls](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2742-painting-the-walls) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -567,6 +568,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1066,6 +1068,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2543-check-if-point-is-reachable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2543-check-if-point-is-reachable) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1227,6 +1230,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1325,6 +1329,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2663-lexicographically-smallest-beautiful-string) |
+| [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
