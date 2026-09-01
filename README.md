@@ -481,6 +481,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -548,6 +549,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2454-next-greater-element-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2454-next-greater-element-iv) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1195,6 +1197,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2463-minimum-total-distance-traveled](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2463-minimum-total-distance-traveled) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1291,6 +1294,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2499-minimum-total-cost-to-make-arrays-unequal](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2499-minimum-total-cost-to-make-arrays-unequal) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1656,6 +1660,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1672,6 +1677,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1649-create-sorted-array-through-instructions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1649-create-sorted-array-through-instructions) |
 | [1687-delivering-boxes-from-storage-to-ports](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1687-delivering-boxes-from-storage-to-ports) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Merge Sort
 |  |
@@ -1694,6 +1700,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2102-sequentially-ordinal-rank-tracker](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2102-sequentially-ordinal-rank-tracker) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2382-maximum-segment-sum-after-removals) |
+| [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Eulerian Circuit
 |  |
