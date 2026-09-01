@@ -114,6 +114,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -486,6 +487,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1374,6 +1376,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
+| [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
