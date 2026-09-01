@@ -206,6 +206,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [2484-count-palindromic-subsequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2484-count-palindromic-subsequences) |
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1295,6 +1296,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
