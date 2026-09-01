@@ -483,6 +483,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
+| [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -894,6 +895,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2518-number-of-great-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2518-number-of-great-partitions) |
 | [2538-difference-between-maximum-and-minimum-price-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2538-difference-between-maximum-and-minimum-price-sum) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
@@ -1042,6 +1044,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2514-count-anagrams](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2514-count-anagrams) |
 | [2543-check-if-point-is-reachable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2543-check-if-point-is-reachable) |
+| [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1077,6 +1080,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2478-number-of-beautiful-partitions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2478-number-of-beautiful-partitions) |
 | [2488-count-subarrays-with-median-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2488-count-subarrays-with-median-k) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
@@ -1199,6 +1203,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2589-minimum-time-to-complete-all-tasks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2589-minimum-time-to-complete-all-tasks) |
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
+| [2681-power-of-heroes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2681-power-of-heroes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
