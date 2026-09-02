@@ -513,6 +513,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 | [3620-network-recovery-pathways](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3620-network-recovery-pathways) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3971-maximum-total-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3971-maximum-total-value) |
 ## Binary Search
 |  |
@@ -1079,6 +1080,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3875-construct-uniform-parity-array-i) |
 | [3971-maximum-total-value](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3971-maximum-total-value) |
 ## Prefix Sum
 |  |
