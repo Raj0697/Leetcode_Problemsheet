@@ -997,6 +997,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2685-count-the-number-of-complete-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2867-count-valid-paths-in-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Math
 |  |
@@ -1591,6 +1592,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2603-collect-coins-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2603-collect-coins-in-a-tree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2867-count-valid-paths-in-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3585-find-weighted-median-node-in-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3585-find-weighted-median-node-in-tree) |
 ## Binary Tree
 |  |
