@@ -142,6 +142,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0179-largest-number](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0301-remove-invalid-parentheses) |
@@ -1015,6 +1016,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0204-count-primes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0279-perfect-squares) |
 | [0335-self-crossing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0335-self-crossing) |
@@ -1439,6 +1441,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0155-min-stack](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0488-zuma-game) |
