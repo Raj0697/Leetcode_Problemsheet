@@ -957,6 +957,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0337-house-robber-iii) |
+| [0386-lexicographical-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0386-lexicographical-numbers) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0685-redundant-connection-ii) |
@@ -1549,6 +1550,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0745-prefix-and-suffix-search](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0745-prefix-and-suffix-search) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
