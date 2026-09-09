@@ -501,6 +501,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2781-length-of-the-longest-valid-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1079,6 +1080,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2719-count-of-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2719-count-of-integers) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2867-count-valid-paths-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2867-count-valid-paths-in-a-tree) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1243,6 +1245,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Database
@@ -1410,6 +1413,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
@@ -1779,6 +1783,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 | [1515-best-position-for-a-service-centre](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1515-best-position-for-a-service-centre) |
 | [1610-maximum-number-of-visible-points](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1610-maximum-number-of-visible-points) |
+| [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
 ## Sweep Line
 |  |
 | ------- |
