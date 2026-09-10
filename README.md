@@ -991,6 +991,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2097-valid-arrangement-of-pairs) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1594,6 +1595,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1766-tree-of-coprimes](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1766-tree-of-coprimes) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2322-minimum-score-after-removals-on-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2322-minimum-score-after-removals-on-a-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
@@ -1628,6 +1630,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1932-merge-bsts-to-create-single-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2509-cycle-length-queries-in-a-tree) |
 ## Binary Search Tree
