@@ -32,6 +32,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0736-parse-lisp-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0736-parse-lisp-expression) |
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
@@ -505,6 +507,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1415,6 +1418,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2468-split-message-based-on-limit](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2468-split-message-based-on-limit) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3027-find-the-number-of-ways-to-place-people-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3027-find-the-number-of-ways-to-place-people-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Number Theory
