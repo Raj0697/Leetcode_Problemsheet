@@ -512,6 +512,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3509-maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3538-merge-operations-for-minimum-travel-time](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3538-merge-operations-for-minimum-travel-time) |
@@ -1096,6 +1097,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3525-find-x-value-of-array-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 | [3574-maximize-subarray-gcd-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3574-maximize-subarray-gcd-score) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1761,6 +1763,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [2179-count-good-triplets-in-an-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2179-count-good-triplets-in-an-array) |
 | [2659-make-array-empty](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2659-make-array-empty) |
 | [2736-maximum-sum-queries](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2736-maximum-sum-queries) |
+| [3525-find-x-value-of-array-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3525-find-x-value-of-array-ii) |
 | [3569-maximize-count-of-distinct-primes-after-split](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/3569-maximize-count-of-distinct-primes-after-split) |
 ## Merge Sort
 |  |
