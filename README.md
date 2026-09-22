@@ -292,6 +292,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0274-h-index](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0327-count-of-range-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -716,6 +717,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0130-surrounded-regions](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0289-game-of-life) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0542-01-matrix) |
@@ -1109,6 +1111,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0209-minimum-size-subarray-sum) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0560-subarray-sum-equals-k) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0798-smallest-rotation-with-highest-score) |
@@ -1493,6 +1496,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0146-lru-cache](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0173-binary-search-tree-iterator) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0432-all-oone-data-structure) |
