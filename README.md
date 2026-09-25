@@ -77,6 +77,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1001-grid-illumination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1001-grid-illumination) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1027-longest-arithmetic-subsequence) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1146-snapshot-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1146-snapshot-array) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -179,6 +180,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0972-equal-rational-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0972-equal-rational-numbers) |
 | [1041-robot-bounded-in-circle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1041-robot-bounded-in-circle) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1163-last-substring-in-lexicographical-order](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1163-last-substring-in-lexicographical-order) |
@@ -627,6 +629,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0928-minimize-malware-spread-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0928-minimize-malware-spread-ii) |
 | [0994-rotting-oranges](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0994-rotting-oranges) |
 | [1036-escape-a-large-maze](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1036-escape-a-large-maze) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1306-jump-game-iii) |
@@ -1163,6 +1166,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0773-sliding-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1655-distribute-repeating-integers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1655-distribute-repeating-integers) |
@@ -1230,6 +1234,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0761-special-binary-string](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0761-special-binary-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0891-sum-of-subsequence-widths](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0891-sum-of-subsequence-widths) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1187-make-array-strictly-increasing) |
 | [1268-search-suggestions-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1268-search-suggestions-system) |
 | [1363-largest-multiple-of-three](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1363-largest-multiple-of-three) |
@@ -1484,6 +1489,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
+| [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
