@@ -195,6 +195,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1531-string-compression-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1531-string-compression-ii) |
 | [1542-find-longest-awesome-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1542-find-longest-awesome-substring) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1657-determine-if-two-strings-are-close) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -1492,6 +1493,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2019-the-score-of-students-solving-math-expression](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2019-the-score-of-students-solving-math-expression) |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
@@ -2127,4 +2129,5 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
