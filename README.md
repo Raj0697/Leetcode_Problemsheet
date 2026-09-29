@@ -2130,4 +2130,5 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
