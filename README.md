@@ -179,6 +179,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0940-distinct-subsequences-ii) |
 | [0972-equal-rational-numbers](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0972-equal-rational-numbers) |
+| [1021-remove-outermost-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1041-robot-bounded-in-circle) |
 | [1044-longest-duplicate-substring](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1044-longest-duplicate-substring) |
 | [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
@@ -1493,6 +1494,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0770-basic-calculator-iv](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0770-basic-calculator-iv) |
 | [0901-online-stock-span](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0901-online-stock-span) |
 | [0936-stamping-the-sequence](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0936-stamping-the-sequence) |
+| [1021-remove-outermost-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1172-dinner-plate-stacks](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1172-dinner-plate-stacks) |
@@ -2135,6 +2137,7 @@ This Repo consists of Leetcode problems with questions and solutions that I subm
 | [0020-valid-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/0241-different-ways-to-add-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raj0697/Leetcode_Problemsheet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
